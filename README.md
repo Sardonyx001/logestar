@@ -1,6 +1,6 @@
 # logestar - Real-time threat detection for HTTP access logs
 
-[![Build Status](https://travis-ci.com/0xsha/logestar.svg?branch=main)](https://travis-ci.com/0xsha/logestar)
+[![made with Go](https://img.shields.io/badge/made%20with-Go-brightgreen)](http://golang.org)
 [![codecov](https://codecov.io/gh/0xsha/logestar/branch/main/graph/badge.svg?token=3ZQZQZQZQZ)](https://codecov.io/gh/0xsha/logestar)
 [![Go Report Card](https://goreportcard.com/badge/github.com/0xsha/logestar)](https://goreportcard.com/report/github.com/0xsha/logestar)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
